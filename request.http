@@ -1,2 +1,3 @@
-GET http://localhost:4000/v1/healthcheck
+POST http://localhost:8080/ping
+Authorization: Bearer fhgqweyhfgwqf
 ###
